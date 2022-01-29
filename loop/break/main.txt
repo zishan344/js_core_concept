@@ -1,0 +1,1 @@
+ai folder a amra break nea kaj korbo .. break dea loop ar bitre teke o loop ke controle kora jabe. akta nirdisto time a jodi loop tek porapori ber hote cayle ta hole ai (break) statement use korte parbo. main.js file a code kore bistarito dewa holo

@@ -1,0 +1,5 @@
+ai folder a amra  continue statement nea discuss korbo 
+ so let's stated
+ ata o break ar moto loop ke control korte bebohar hoi. kinto a ketre loop teke propori ber hoie na ase just sei loop ta skip kore . sodo atai diffrent (break) ar ( continue) ar bitor.
+ 
+ bistarito main.js file a discuss kora hobe so let's started.

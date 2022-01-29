@@ -1,0 +1,14 @@
+ai  folder a operator nea kaj korbo . .
+protome amader jante hobe . what is operator .
+ jemon doron 2+3ans 5. akane 2, 3 oparend ar + holo oparetor. .
+
+ javascript hava several operator
+ 1/ arithmetic operator
+ 2/ assignment operator
+ 3/ comparision operator
+ 5/ logical/relitional operator
+ 6/ conditional operator
+ 7/ typeof operator
+ 8/ betwise oparetor
+
+ folder golo te bistarito discuss kora holo 

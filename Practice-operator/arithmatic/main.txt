@@ -1,0 +1,22 @@
+wellcome to the arithmetics folder. 
+this folder we created by the discussion for the arithmetics operator
+so let's started 
+
+1st question : what is arithmetics operator and how many arithmetics operator?
+
+answer : arithmetics operator moloto 7ti 
+        1/ + (plus), ata kono kiso jog korte bebohar hoi 
+
+        2/ - (minus), ata kono kiso minus korte bebohar hoi 
+
+        3/ * (into),  ata kono kiso into korte bebohar hoi 
+
+        4/ / (divide),ata kono kiso into korte bebohar hoi 
+
+        5/ ++(increment), ata kono kiso increment korte bebohar hoi. ata ak ak kore bde jay . 
+
+        6/ --(decrement), ata kono kiso decrement korte bebohar hoi.ata ak ak kore kome jay
+
+        7/ % (modolus),   ata kono kiso modolus korte bebohar hoi. ata kono sonkar bagses dekai.
+
+        go to the practice section

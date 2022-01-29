@@ -1,0 +1,11 @@
+atar kaj hosse kono kiso assign kora.onk doroner assignment operator ase . ai folder a ai sob bisoi nea discussion kora hobe .. so let's start
+
+protome amra assignment operator golo deke nei 
+    1/ = (atake simpale assignment operator bole. ata variable ar value assign korar jonno bebohar kora hoi.)
+    2/ += (atake  pluse equal operator bole.ata nijer songe nijer value jog kore abar setake assign kore akoi sate nijer songe. jemon: a+=10; atar full form holo a = a + 10;)
+    3/ -= (atake minus equal operator bole. ata o same pluse ar moto . sodo aikane minus kore. just atai change)
+    4/ *= (ataje into equal operator bole. ata o same pluse ar moto. sodo aikane gon  (into) hobe. just atai change)
+    5/ /= (atake divide equal operator bole. ata o same pluse ar moto. sodo aikane bag (divide) hobe. just atai change)
+    6/ %= (atrake divide equal operator bole. ata o same pluse ar moto. sodo aikane bagses(modolus) hobe. just atai change)
+
+    lets go to the code . and write the code value in the practically .. so let's started.

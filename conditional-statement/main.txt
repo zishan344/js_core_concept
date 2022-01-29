@@ -1,0 +1,35 @@
+ai folder a amra conditionla statement nea discuss korbo
+ protome asi conditionla statement ki,
+
+amra daily life a onk doroner dissition nea taki jemon  2 tarik fraidy hole ami nodir par beraite jabo kayom and mijan ar sate . ar jodi 2 tarik fraidy na hoie sutreday hoi ta hole ami madrarsha te jabo. jodi kiso na hoi bose takbo
+
+coder basai 
+
+jodi (sokrobar hoi){
+    ami mijan ar kayom ar sate beraite jabo
+}
+na saturday (hole ){
+    madrarsha te jabo 
+}
+kono tay na(" ta hole ami bose takbo ")
+
+if(saturday){
+    console.loge("gorbo")
+}
+else if(sunday){
+    console.loge("basai jabo")
+}
+
+js a conditional statement 3 prokar
+1/if
+2/ese
+2/else...if
+
+ar akta ase jeta amra atar biporite use korte pari seta holo
+
+ switch statement. ata nea o amra discuss korbo. folder golote
+
+ak kotai conditional statement ar kaj holo sotto mitta print kora thats it sotto hole akta print ar mitta hole ar akta.
+bistarito folder golo te discuss kora hobe,, so let's started.
+
+ 

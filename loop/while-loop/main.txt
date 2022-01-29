@@ -1,0 +1,9 @@
+  while loop  protome condition chaeck kore nibe. jodi mitta hoi tahole soja loop teke ber hoi jabe. kono kiso jiggasa ba execute korbena. ar jodi sotto hole loper bitor teke execute korbe. 
+   
+   jemon
+
+   jotokkon(ami sotto){
+       statements;
+       ++;
+   }
+   main.js file a code kore dekano holo so lets started

@@ -1,0 +1,5 @@
+js a for loop onnanno programming leanguage ar motoi for loop sadaronoto bebohar kora hoi. jodi kono kaj nirdisto somoi porjonto korte cay. akane sorota bole dibo tarpor kotokkon porjonto korte cay ata bolbo. ar sese protita step step kotokkon jete cay ata bole dibo.
+for(soro:condition:step){
+    statement;
+}
+folder a code kore dekano holo

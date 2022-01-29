@@ -1,0 +1,2 @@
+ai folder ar amra do while ne discussion korbo .. do while ar while aki rokom . tobe do while a code mitta hole akbar execute hoi . ar while code mitta hole akber o execute hoina soja loop tke ber hoie jay..ak kotai do while loop condition chack kora sara akbar execute kore jete while loop a korena. 
+main.js file a code kore bisoi ti dekano holo. 

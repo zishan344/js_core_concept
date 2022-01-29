@@ -1,0 +1,18 @@
+ai folder a amra comparisons operator nea discussion korbo.akta value ar sate ar akta value compear korar jonno ata bebohar hoi. 2ta value soman ki na.bodo naki coto ata dekar jonno comparison operator bebohar hoi. ara result hisabe tre ar false return kore. comparison operator mot 7 prokar nise sob golo ollek kora holo
+      
+        1/ == (equal equal)
+
+        2/ != (not equal)
+
+        3/ > (getarthen) 
+
+        4  <  (less than)
+
+        5/ >=(getarthen equal .ata akta ar akta teke bodo  ba soman ki na seta dekar 
+        jonno ata bebohar hoi . ata o true false return kore )
+        
+        6/ <= (less than equal.ata akta akta teke coto ba soman ki na seta dekar jonno ata bebohar kora hoie. ata o true false return kore)
+        
+        7/ ===(treeple equal. ata te value abong type 2 ty chack kore)
+        
+        8/ !==(not duble equal.  ata o same just na bodok sinno prokash kore)

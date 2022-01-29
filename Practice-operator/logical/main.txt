@@ -1,0 +1,8 @@
+ata 3 rokomer hote pare . ata dea logic increment kora hoi. 
+1/ && (and) {sadoron babe 2 ba akadik expressioner majkane bse. jodi oi expressioner  modde jodi akta tre hoi ta hole poro ta false. ar jodi 2 tay true hoi ta hole true reuturn korbe. 2ty jodi false hoi ta hole false return hobe}
+
+2/ || (or) {sadoron babe 2 ba akadik expressioner majkane bse. jodi oi expressioner modde je kono akti true hole poro ta true return hobe. ar jodi sob sotti hole ta hole true return hobe. jodi 2 tay false hoi ta hole sodo false return hobe thats it}
+
+3/ !  (not) {atir kaj hosse polapol oltie pela  kono expression jodi true hoi ta hole ata ke false banaye pela. ar jodi false hoi ta hole ata ke true baniye pela.}
+
+script .js file a code kore example dewa ase.
